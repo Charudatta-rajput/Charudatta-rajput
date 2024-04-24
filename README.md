@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Charudatta patil</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 🔭 I’m currently working on DiploHelper-Notes Management App<br><br>🌱 I’m currently learning Node.js<br><br>📫 How to reach me charudattap25@gmail.com
 
 
