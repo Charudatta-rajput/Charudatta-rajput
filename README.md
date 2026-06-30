@@ -272,11 +272,11 @@ AI-powered Resume Analysis and ATS Optimization Platform.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/charudatta-patil-828546283/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Charudatta-rajput">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -290,6 +290,6 @@ AI-powered Resume Analysis and ATS Optimization Platform.
 
 ⭐ If you like my work, consider starring my repositories!
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Charudatta-rajput&style=for-the-badge&color=blue)
 
 </div>
