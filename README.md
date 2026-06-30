@@ -12,13 +12,13 @@ Building scalable Android applications with Kotlin & Jetpack Compose while explo
 <a href="mailto:charudattap25@gmail.com">
 <img src="https://img.shields.io/badge/Email-charudattap25%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Charudatta-rajput">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/charudatta-patil-828546283/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="https://play.google.com/store/apps/details?id=YOUR_PACKAGE">
+<a href="https://play.google.com/store/apps/details?id=com.charudatta.stayfit">
 <img src="https://img.shields.io/badge/Google_Play-StayFit-green?style=for-the-badge&logo=google-play">
 </a>
 </p>
