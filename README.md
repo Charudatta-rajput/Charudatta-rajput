@@ -44,7 +44,7 @@ Building scalable Android applications with Kotlin & Jetpack Compose while explo
 
 # 🚀 Experience
 
-## Android Developer Intern — Yugant Enterprises Pvt Ltd
+## Android Developer Intern - Yugant Enterprises Pvt Ltd
 
 **March 2026 – Present**
 
@@ -55,7 +55,7 @@ Building scalable Android applications with Kotlin & Jetpack Compose while explo
 
 ---
 
-## Full Stack Android Freelancer — SoftBridge
+## Full Stack Android Freelancer - SoftBridge
 
 **May 2026 – June 2026**
 
